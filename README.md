@@ -1,2 +1,3 @@
 # Emoji-Interpreter
-Created with CodeSandbox
+
+Day 6 of Training: React Js
